@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name         Bitbucket branch view changer - old to new
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @author       Florian Dütsch <florian.duetsch@adigi.ai>
 // @match        https://bitbucket.org/*/*/branches/compare/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/adigi-ai/userscripts/main/bitbucket_branch_view_changer_old_to_new.js
 // ==/UserScript==
-
-// TODO: @updateURL
 
 (function () {
   'use strict';
