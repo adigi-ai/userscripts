@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Bitbucket branch view changer - new to old
+// @description  Adds a button to switch from the new Bitbucket branch view to the old one
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @author       Florian Dütsch <florian.duetsch@adigi.ai>
 // @match        https://bitbucket.org/*/*/branch/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/adigi-ai/userscripts/main/bitbucket_branch_view_changer_new_to_old.js
+// @downloadURL  https://raw.githubusercontent.com/adigi-ai/userscripts/main/bitbucket_branch_view_changer_new_to_old.js
 // ==/UserScript==
 
 (function () {
